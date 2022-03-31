@@ -20876,7 +20876,7 @@ r=B.a($.S.E().e,n)
 q=B.a($.S.E().e,n)
 p=B.a($.S.E().f,m)
 o=$.S.E()
-return new A.O_(l,k,i,[],h,j,w,50*v,28*u,22*t,s*2/10,r*2/10,q*4/5,p/4,50*(B.a(o.f,m)/B.a(o.a,"uiSize").b),C.l)}}
+return new A.O_(l,k,i,[],h,j,w,40*v,25*u,18*t,s*2/10,r*2/10,q*4/5,p/4,50*(B.a(o.f,m)/B.a(o.a,"uiSize").b),C.l)}}
 A.O_.prototype={
 b6(){this.bG()},
 U(c1,c2){var w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1=this,b2=null,b3="_screenWidth",b4="_screenHeight",b5="uiSize",b6=4288980132,b7=4294177779,b8=B.a($.S.E().e,b3),b9=$.S.E(),c0=B.a(b9.f,b4)
@@ -23488,7 +23488,7 @@ $.S.E()
 return w.c.$0()}return B.c1(t,t,t,t,t,t,t,t,t)},
 $S:260}
 A.WR.prototype={
-$0(){return new A.lU(new A.zz(null),"Flutter Demo",B.ahb(null,C.nC),null)},
+$0(){return new A.lU(new A.zz(null),"GreenDAO",B.ahb(null,C.nC),null)},
 $S:z+120}
 A.a8w.prototype={
 $0(){var w=0,v=B.a_(x.H)
@@ -24993,4 +24993,4 @@ w($,"aza","akq",()=>new A.Ex(B.cb("/",!0),B.cb("[^/]$",!0),B.cb("^/",!0)))
 w($,"azc","Oj",()=>new A.Hb(B.cb("[/\\\\]",!0),B.cb("[^/\\\\]$",!0),B.cb("^(\\\\\\\\[^\\\\]+\\\\[^\\\\/]+|[a-zA-Z]:[/\\\\])",!0),B.cb("^[/\\\\](?![/\\\\])",!0)))
 w($,"azb","zC",()=>new A.GY(B.cb("/",!0),B.cb("(^[a-zA-Z][-+.a-zA-Z\\d]*://|[^/])$",!0),B.cb("[a-zA-Z][-+.a-zA-Z\\d]*://[^/]*",!0),B.cb("^/",!0)))
 w($,"az9","adj",()=>A.asK())})()}
-$__dart_deferred_initializers__["aa4c2pRVc6rLHq8qiF8F/3KPFok="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["nAiuwkJDbcfAih6yoqQxLIFeOSg="] = $__dart_deferred_initializers__.current
